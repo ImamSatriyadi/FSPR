@@ -1,3 +1,5 @@
+package Sesi_1;
+
 public class FormatString {
     public static void main(String[] args) {
         String namaDepan = "Imam";

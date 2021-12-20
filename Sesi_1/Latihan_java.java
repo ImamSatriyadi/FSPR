@@ -1,3 +1,5 @@
+package Sesi_1;
+
 import java.util.LinkedList;
 
 public class Latihan_java {
