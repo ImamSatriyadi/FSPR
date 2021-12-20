@@ -11,7 +11,7 @@ public class Latihan_java {
         buah.add("Nanas");
         buah.add("Sirsak");
 
-        System.out.println("Nama Buah      : " + buah);
+        System.out.println("Daftar Buah      : " + buah);
         System.out.println("Jumlah Buah    : " + buah.size());
 
         buah.addFirst("Paling Atas");
