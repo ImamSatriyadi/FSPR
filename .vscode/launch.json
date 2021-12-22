@@ -1,0 +1,454 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Sesi6.Main",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array2D",
+            "request": "launch",
+            "mainClass": "Sesi_5.Array2D",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ListModification",
+            "request": "launch",
+            "mainClass": "Sesi_5.ListModification",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ListOperation",
+            "request": "launch",
+            "mainClass": "Sesi_5.ListOperation",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinkedHasSetRemoveAll",
+            "request": "launch",
+            "mainClass": "Sesi_5.LinkedHasSetRemoveAll",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinkedHasSetOnArrival",
+            "request": "launch",
+            "mainClass": "Sesi_5.LinkedHasSetOnArrival",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch SetIntersection",
+            "request": "launch",
+            "mainClass": "Sesi_5.SetIntersection",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch SetUnion",
+            "request": "launch",
+            "mainClass": "Sesi_5.SetUnion",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch MultipleOccurence",
+            "request": "launch",
+            "mainClass": "Sesi_5.MultipleOccurence",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch PopulateSetWithArray",
+            "request": "launch",
+            "mainClass": "Sesi_5.PopulateSetWithArray",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArraySearching",
+            "request": "launch",
+            "mainClass": "Sesi_5.ArraySearching",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArraySorting",
+            "request": "launch",
+            "mainClass": "Sesi_5.ArraySorting",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "name": "Java",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ]
+        },
+        {
+            "name": "Java Console App",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ],
+            "externalConsole": true
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch AlgoritmaLuhn",
+            "request": "launch",
+            "mainClass": "AlgoritmaLuhn",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch EasyStat",
+            "request": "launch",
+            "mainClass": "Assignment.EasyStat",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Latihan1",
+            "request": "launch",
+            "mainClass": "Assignment.Latihan1",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Latihan2",
+            "request": "launch",
+            "mainClass": "Assignment.Latihan2",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Latihan3",
+            "request": "launch",
+            "mainClass": "Assignment.Latihan3",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Latihan4",
+            "request": "launch",
+            "mainClass": "Assignment.Latihan4",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Latihan5",
+            "request": "launch",
+            "mainClass": "Assignment.Latihan5",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lingkaran",
+            "request": "launch",
+            "mainClass": "Assignment.Lingkaran",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch PalindromeCheck",
+            "request": "launch",
+            "mainClass": "Assignment.PalindromeCheck",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch BodyMassIndex",
+            "request": "launch",
+            "mainClass": "BodyMassIndex",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "Sesi3.fspr.src.App",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch BloodPressure",
+            "request": "launch",
+            "mainClass": "Sesi3.fspr.src.session3.BloodPressure",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch BloodPressureScanner",
+            "request": "launch",
+            "mainClass": "Sesi3.fspr.src.session3.BloodPressureScanner",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaConstants",
+            "request": "launch",
+            "mainClass": "Sesi3.fspr.src.session3.JavaConstants",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch LabeledForLoop",
+            "request": "launch",
+            "mainClass": "Sesi3.fspr.src.session3.LabeledForLoop",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch LabeledWhileLoop",
+            "request": "launch",
+            "mainClass": "Sesi3.fspr.src.session3.LabeledWhileLoop",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Latihan15",
+            "request": "launch",
+            "mainClass": "Sesi3.fspr.src.session3.Latihan15",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Latihan16",
+            "request": "launch",
+            "mainClass": "Sesi3.fspr.src.session3.Latihan16",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Latihan21",
+            "request": "launch",
+            "mainClass": "Sesi3.fspr.src.session3.Latihan21",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Latihan4(1)",
+            "request": "launch",
+            "mainClass": "Sesi3.fspr.src.session3.Latihan4",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Latihan7",
+            "request": "launch",
+            "mainClass": "Sesi3.fspr.src.session3.Latihan7",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch FormatString",
+            "request": "launch",
+            "mainClass": "Sesi_1.FormatString",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Latihan_java",
+            "request": "launch",
+            "mainClass": "Sesi_1.Latihan_java",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintVsPrintln",
+            "request": "launch",
+            "mainClass": "Sesi_1.PrintVsPrintln",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestCollection",
+            "request": "launch",
+            "mainClass": "Sesi_1.TestCollection",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestIterator",
+            "request": "launch",
+            "mainClass": "Sesi_1.TestIterator",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch welcome",
+            "request": "launch",
+            "mainClass": "Sesi_1.welcome",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch CekGraduation",
+            "request": "launch",
+            "mainClass": "Sesi_2.CekGraduation",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hadiah",
+            "request": "launch",
+            "mainClass": "Sesi_2.Hadiah",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch HitungGrade",
+            "request": "launch",
+            "mainClass": "Sesi_2.HitungGrade",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Kasir",
+            "request": "launch",
+            "mainClass": "Sesi_2.Kasir",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lampulalulintas",
+            "request": "launch",
+            "mainClass": "Sesi_2.Lampulalulintas",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch NewExample",
+            "request": "launch",
+            "mainClass": "Sesi_2.NewExample",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch NewExample2",
+            "request": "launch",
+            "mainClass": "Sesi_2.NewExample2",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch NewExample3",
+            "request": "launch",
+            "mainClass": "Sesi_2.NewExample3",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch NewExample4",
+            "request": "launch",
+            "mainClass": "Sesi_2.NewExample4",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Operator",
+            "request": "launch",
+            "mainClass": "Sesi_2.Operator",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperatorAritmatika",
+            "request": "launch",
+            "mainClass": "Sesi_2.OperatorAritmatika",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperatorPembanding",
+            "request": "launch",
+            "mainClass": "Sesi_2.OperatorPembanding",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch SalesTax",
+            "request": "launch",
+            "mainClass": "Sesi_2.SalesTax",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch BilanganGanjil",
+            "request": "launch",
+            "mainClass": "Sesi_3.BilanganGanjil",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch TampilanBintang",
+            "request": "launch",
+            "mainClass": "Sesi_3.TampilanBintang",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch TampilanNilai",
+            "request": "launch",
+            "mainClass": "Sesi_3.TampilanNilai",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch WhileLoop",
+            "request": "launch",
+            "mainClass": "Sesi_3.WhileLoop",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayCompare",
+            "request": "launch",
+            "mainClass": "Sesi_5.ArrayCompare",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayCopy",
+            "request": "launch",
+            "mainClass": "Sesi_5.ArrayCopy",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ContohArray",
+            "request": "launch",
+            "mainClass": "Sesi_5.ContohArray",
+            "projectName": "FSPR_71c8174f"
+        }
+    ]
+}

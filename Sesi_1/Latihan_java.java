@@ -1,10 +1,11 @@
 package Sesi_1;
 
+import java.util.*;
 import java.util.LinkedList;
 
 public class Latihan_java {
     public static void main(String[] args) {
-        LinkedList<String> buah = new LinkedList<>();
+        LinkedList<String> buah = new LinkedList<String>();
         buah.add("Jeruk");
         buah.add("Jambu");
         buah.add("Apel");
