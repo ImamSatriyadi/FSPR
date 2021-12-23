@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Demonstrations5",
+            "request": "launch",
+            "mainClass": "Sesi_8.Demonstrations5",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demonstrations2",
+            "request": "launch",
+            "mainClass": "Sesi_8.Demonstrations2",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demonstrations1",
+            "request": "launch",
+            "mainClass": "Sesi_8.Demonstrations1",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demonstrations6",
+            "request": "launch",
+            "mainClass": "Sesi_8.Demonstrations6",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demonstrations4",
+            "request": "launch",
+            "mainClass": "Sesi_8.Demonstrations4",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demonstrations3",
+            "request": "launch",
+            "mainClass": "Sesi_8.Demonstrations3",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Sesi_8.Main",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Binary",
+            "request": "launch",
+            "mainClass": "Sesi_8.Binary",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinarySearch",
+            "request": "launch",
+            "mainClass": "Sesi_8.BinarySearch",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch SelesctionSort",
+            "request": "launch",
+            "mainClass": "Sesi_8.SelesctionSort",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch BubbleSort",
+            "request": "launch",
+            "mainClass": "Sesi_8.BubbleSort",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ClosestPlane",
+            "request": "launch",
+            "mainClass": "Sesi_8.ClosestPlane",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
             "name": "Launch Latihan_5",
             "request": "launch",
             "mainClass": "Sesi_7.Latihan_5",
