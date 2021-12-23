@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Latihan_5",
+            "request": "launch",
+            "mainClass": "Sesi_7.Latihan_5",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Latihan_4",
+            "request": "launch",
+            "mainClass": "Sesi_7.Latihan_4",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Latihan_3",
+            "request": "launch",
+            "mainClass": "Sesi_7.Latihan_3",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Latihan_2",
+            "request": "launch",
+            "mainClass": "Sesi_7.Latihan_2",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Latihan_1",
+            "request": "launch",
+            "mainClass": "Sesi_7.Latihan_1",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
             "name": "Launch Main",
             "request": "launch",
             "mainClass": "Sesi6.Main",
