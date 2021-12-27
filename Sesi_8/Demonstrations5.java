@@ -31,6 +31,7 @@ class Demonstrations5 {
         outer.invokeInner();
         // InnerClass inner=new InnerClass();//Error
         OuterClass.InnerClass inner = outer.new InnerClass();// Ok
+        OuterClass.InnerClass inner2 = new OuterClass().new InnerClass();// Ok
         // Invoking the inner class method through an inner class object.
         System.out.println("Invoking the inner class method through an inner class object.");
         inner.showInnerMethod();

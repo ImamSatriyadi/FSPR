@@ -6,6 +6,111 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ComputerExample",
+            "request": "launch",
+            "mainClass": "Sesi_10.ComputerExample",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch TemperatureConvertion",
+            "request": "launch",
+            "mainClass": "Sesi_10.TemperatureConvertion",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ContohSatu",
+            "request": "launch",
+            "mainClass": "Sesi_10.ContohSatu",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ParseKnownXmlStructure",
+            "request": "launch",
+            "mainClass": "Sesi_10.ParseKnownXmlStructure",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaReadXmlSaEx2",
+            "request": "launch",
+            "mainClass": "Sesi_10.JavaReadXmlSaEx2",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaReadXmlSaEx",
+            "request": "launch",
+            "mainClass": "Sesi_10.JavaReadXmlSaEx",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ContohSyncronized",
+            "request": "launch",
+            "mainClass": "Sesi_9.ContohSyncronized",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch MyInterruptThreadExample",
+            "request": "launch",
+            "mainClass": "Sesi_9.MyInterruptThreadExample",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThreadJoinExample",
+            "request": "launch",
+            "mainClass": "Sesi_9.ThreadJoinExample",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch MyOwnThread",
+            "request": "launch",
+            "mainClass": "Sesi_9.MyOwnThread",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch RunNotepad",
+            "request": "launch",
+            "mainClass": "Sesi_9.RunNotepad",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ProcessExample",
+            "request": "launch",
+            "mainClass": "Sesi_9.ProcessExample",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThreadNumber",
+            "request": "launch",
+            "mainClass": "Sesi_9.ThreadNumber",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThreadWorld",
+            "request": "launch",
+            "mainClass": "Sesi_9.ThreadWorld",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThreadHello",
+            "request": "launch",
+            "mainClass": "Sesi_9.ThreadHello",
+            "projectName": "FSPR_71c8174f"
+        },
+        {
+            "type": "java",
             "name": "Launch Demonstrations5",
             "request": "launch",
             "mainClass": "Sesi_8.Demonstrations5",
